@@ -45,7 +45,7 @@ This brings with it some great benefits too. The major one is *Speed*. Since we 
 
 ### Single Page App (SPA)
 
-In __React__ we will likely be building a __SPA__. This means we wont require multiple pages being loaded, just the original __GET__ request with our initial HTML, CSS and JS files from the Server. This requires us to figure out how to make the experience of Client-Side routing work to our advantage.
+In __React__ we will likely be building a __SPA__. This means we won't require multiple pages being loaded, just the original __GET__ request with our initial HTML, CSS and JS files from the Server. This requires us to figure out how to make the experience of Client-Side routing work to our advantage.
 
 There are a couple of things that we need to take into consideration:
 
